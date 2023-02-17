@@ -1,1 +1,1 @@
-# pushswap2
+# pushswap
